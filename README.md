@@ -1,4 +1,4 @@
-### Hi there 👋
+### こんにちは。徳山ただひろのFirstGitHubアカウントです。
 
 <!--
 **TfromTYBros/TfromTYBros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
